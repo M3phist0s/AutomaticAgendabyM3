@@ -1,5 +1,5 @@
 # AutomaticAgendabyM3
-The story behind this Excel comes from a friend's request to optimize the new/past interns in the companies fully automatically just by updating the dates. While having a nice graphical way to displaying it.
+The story behind this Excel comes from a friend's request to optimize the new/past interns in her companiy fully automatically just by updating the dates. While having a nice graphical way to displaying it.
 
 The first tab is the legend, so any category, department and so on you would like to identify with a different color. The color can be changed in the conditional formatting. If you want to change them, do so by changing the font and fill coloring for the cell for the top Cell. (Should be J5)
 
